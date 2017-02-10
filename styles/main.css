@@ -8,6 +8,10 @@ img {
   max-width: 100%;
 }
 
+.wadap {
+	font-size:4em;
+}
+
 .site-header {
   position: relative;
 }
