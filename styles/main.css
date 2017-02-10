@@ -1,7 +1,8 @@
 body {
   background:#000 !important;
   color:#fff !important;
-  overflow:none;
+  overflow:hidden;
+  margin-top:8em;
 }
 
 img {
